@@ -18,7 +18,7 @@
   <span class="text_on_image">
     <h1>Welcome To SAN DIEGO Zoo Site</h1>
     <p>Our Zoo is found in san diego and we have variety of<br>  activitiesfor 
-    tourist. Our tickets are always avialable <br> and very affortable to buy.</p>
+    tourist. Our tickets are always avialable <br> and very affortable to buy. ddgit </p>
   </span>
 </div>
 
